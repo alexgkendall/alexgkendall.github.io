@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
+  gem "webrick", "~> 1.8"
 end

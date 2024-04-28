@@ -9,39 +9,33 @@
 {% elsif gallery.size >= 3 %}
   {% assign gallery_layout = 'third' %}
 {% else %}
-  {% assign gallery_layout = '' %}
+  {% assign gallery_layout = 'single' %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} {{ include.class }}">
+<!-- Gallery Container -->
+<div class="gallery-container {{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
-    {% if img.url %}
-      <a href=
-        {% if img.url contains "://" %}
-          "{{ img.url }}"
-        {% else %}
-          "{{ img.url | absolute_url }}"
+    <figure>
+      {% if img.url %}
+        <a href="{% if img.url contains '://' %}{{ img.url }}{% else %}{{ img.url | absolute_url }}{% endif %}"
+          {% if img.title %}title="{{ img.title }}"{% endif %}>
+          <img class="fixed-height-img" src="{% if img.image_path contains '://' %}{{ img.image_path }}{% else %}{{ img.image_path | absolute_url }}{% endif %}"
+               alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+        </a>
+        {% if img.caption %}
+          <figcaption>{{ img.caption | markdownify }}</figcaption>
         {% endif %}
-        {% if img.title %}title="{{ img.title }}"{% endif %}
-      >
-        <img src=
-          {% if img.image_path contains "://" %}
-            "{{ img.image_path }}"
-          {% else %}
-            "{{ img.image_path | absolute_url }}"
-          {% endif %}
-          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-      </a>
-    {% else %}
-      <img src=
-        {% if img.image_path contains "://" %}
-          "{{ img.image_path }}"
-        {% else %}
-          "{{ img.image_path | absolute_url }}"
+      {% else %}
+        <img class="fixed-height-img" src="{% if img.image_path contains '://' %}{{ img.image_path }}{% else %}{{ img.image_path | absolute_url }}{% endif %}"
+             alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+        {% if img.caption %}
+          <figcaption>{{ img.caption | markdownify }}</figcaption>
         {% endif %}
-        alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-    {% endif %}
+      {% endif %}
+    </figure>
   {% endfor %}
-  {% if include.caption %}
-    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-  {% endif %}
-</figure>
+</div>
+
+{% if include.caption %}
+  <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+{% endif %}

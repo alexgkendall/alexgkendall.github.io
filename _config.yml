@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Home"
+title                    : "Alex Kendall"
 title_separator          : "-"
 name                     : "Alex Kendall"
-description              : "Research Website and Blog."
+description              : "Personal website."
 url                      : "//alexgkendall.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alexgkendall/alexgkendall.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Alex Kendall"
   avatar           : "/assets/images/alex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Vision & Robotics Researcher"
-  location         : "University of Cambridge"
+  bio              : "Wayve Co-founder and CEO"
+  location         : "London, UK"
   uri              :
   bitbucket        :
   codepen          :
