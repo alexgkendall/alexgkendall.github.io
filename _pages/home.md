@@ -120,11 +120,12 @@ gallery:
   .gallery-container figcaption {
     font-size: 1.1em; /* Increases the font size of captions */
   }
+
 </style>
 
 ## I’m passionate about building Embodied AI, deep tech startups and generally anything adventurous.
 
-I co-founded and am CEO at [Wayve](https://wayve.ai/) – the leader in developing embodied AI technology for autonomous driving. We were the first to deploy end-to-end AI on public roads and our AV2.0 approach enables safe, generalisable and trustworthy autonomy. We’ve raised $260m in funding and our team is based in London, Silicon Valley, Israel and Vancouver. Interested in joining our mission? We’re hiring [here](https://wayve.ai/careers/join-us/)!
+I co-founded and am CEO at [Wayve](https://wayve.ai/) – the leader in developing embodied AI technology for autonomous driving. We were the first to deploy end-to-end AI on public roads and our AV2.0 approach enables safe, generalisable and trustworthy autonomy. We’ve raised $260m in funding and our team is based in London and Silicon Valley. Interested in joining our mission? We’re hiring [here](https://wayve.ai/careers/join-us/)!
 
 <figure>
 	<a href="/assets/images/team.jpg"><img src="/assets/images/team.jpg"></a>
@@ -160,7 +161,7 @@ Wayve began in a residential house, just outside Cambridge University. We founde
     <figcaption>Unveiling our first autonomous vehicle we built in our garage in Cambridge, UK. Learning to drive with reinforcement learning.</figcaption>
 </figure>
 
-Today we are over 250 people across London, Silicon Valley, Israel and Vancouver with leading expertise in Embodied AI. We’ve been operating our fleet on public roads since 2018, including AV trials on UK public roads with major grocery delivery fleets like Asda and Ocado Group. Wayve’s innovative AI technology enables greater generalisation to the long-tail of edge cases, improved safety, while eliminating the need for high-definition maps and complex sensors, marking a significant leap in the scalability of autonomous mobility.
+Today we are over 250 people across London and Silicon Valley with leading expertise in Embodied AI. We’ve been operating our fleet on public roads since 2018, including AV trials on UK public roads with major grocery delivery fleets like Asda and Ocado Group. Wayve’s innovative AI technology enables greater generalisation to the long-tail of edge cases, improved safety, while eliminating the need for high-definition maps and complex sensors, marking a significant leap in the scalability of autonomous mobility.
 
 <figure class="half">
     <a><iframe src="https://www.youtube.com/embed/L_O6mQIQ3Eg?si=FkJdUl3t_oh9skgg" frameborder="0" allowfullscreen></iframe></a>

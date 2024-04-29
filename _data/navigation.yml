@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "featured talks"
+  - title: "talks"
     url: "#talks"
   - title: "publications"
     url: "#publications"
