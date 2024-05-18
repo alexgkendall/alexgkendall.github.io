@@ -125,7 +125,7 @@ gallery:
 
 ## I’m passionate about building Embodied AI, deep tech startups and generally anything adventurous.
 
-I co-founded and am CEO at [Wayve](https://wayve.ai/) – the leader in developing embodied AI technology for autonomous driving. We were the first to deploy end-to-end AI on public roads and our AV2.0 approach enables safe, generalisable and trustworthy autonomy. We’ve raised $260m in funding and our team is based in London and Silicon Valley. Interested in joining our mission? We’re hiring [here](https://wayve.ai/careers/join-us/)!
+I co-founded and am CEO at [Wayve](https://wayve.ai/) – the leader in developing embodied AI for autonomous driving. I started working on this technology at Cambridge University where my PhD research showed how end-to-end deep learning could enable safe and real-time scene understanding. I founded Wayve in 2017 with the belief that end-to-end AI would unlock generalised autonomy at global scale. Wayve was first to deploy end-to-end AI on public roads and our AV2.0 approach enables safe, generalisable and trustworthy autonomy. We've raised $1.3b in funding and are a team of over 300 across London, Vancouver and Silicon Valley. Interested in joining our mission? We’re hiring [here](https://wayve.ai/careers/join-us/)!
 
 <figure>
 	<a href="/assets/images/team.jpg"><img src="/assets/images/team.jpg"></a>
@@ -161,7 +161,7 @@ Wayve began in a residential house, just outside Cambridge University. We founde
     <figcaption>Unveiling our first autonomous vehicle we built in our garage in Cambridge, UK. Learning to drive with reinforcement learning.</figcaption>
 </figure>
 
-Today we are over 250 people across London and Silicon Valley with leading expertise in Embodied AI. We’ve been operating our fleet on public roads since 2018, including AV trials on UK public roads with major grocery delivery fleets like Asda and Ocado Group. Wayve’s innovative AI technology enables greater generalisation to the long-tail of edge cases, improved safety, while eliminating the need for high-definition maps and complex sensors, marking a significant leap in the scalability of autonomous mobility.
+Today Wayve is the leading developer of Embodied AI technology for automated driving. We've raised $1.3b from top investors like SoftBank, Microsoft, NVIDIA, and Eclipse Ventures and are a team of over 300 people across London, Vancouver and Silicon Valley. We’ve been operating our fleet on public roads since 2018, including AV trials with major grocery delivery fleets like Asda and Ocado Group. Wayve’s innovative AI technology enables greater generalisation to the long-tail of edge cases, improved safety, while eliminating the need for high-definition maps and complex sensors, marking a significant leap in the scalability of autonomous mobility.
 
 <figure class="half">
     <a><iframe src="https://www.youtube.com/embed/L_O6mQIQ3Eg?si=FkJdUl3t_oh9skgg" frameborder="0" allowfullscreen></iframe></a>
@@ -212,6 +212,7 @@ Also on [Google Scholar](https://scholar.google.co.uk/citations?user=hE2mTp4AAAA
 <div id='news'></div>
 ## Selected News and Media:
 
+- 2024 Wayve's $1.3b Series C fundraise from SoftBank, Microsoft and NVIDIA ([Financial Times](https://www.ft.com/content/a5704e29-545c-45e6-b7e3-d0a8cda285c4), [New York Times](https://www.nytimes.com/2024/05/06/technology/wayve-ai-self-driving-vehicles.html), [TechCrunch](https://techcrunch.com/2024/05/06/wayve-raises-1-billion-led-by-softbank-to-take-self-driving-to-cars-and-robots/))
 - 2023 My ride with Bill Gates around London ([GatesNotes](https://www.gatesnotes.com/Autonomous-Vehicles))
 - 2023 The introduction of the Automated Vehicles Bill ([PA Media](https://www.dailymail.co.uk/wires/pa/article-12720293/Bill-enable-self-driving-cars-used-Britain-s-roads.html), [Bloomberg](https://www.bloomberg.com/news/articles/2023-11-09/uk-sees-fully-self-driving-cars-hitting-its-roads-around-2026), [The Times](https://drive.google.com/file/d/1jWBmVtWRhoPwk1JnkJqLIdi_OyJWxpDj/view?usp=drive_link))
 - 2023 Wayve introduces LINGO-1 ([Financial Times](https://www.ft.com/content/a5a5f2ea-e95f-4358-9f80-d10c5ed90453), [MIT Tech Review](https://www.technologyreview.com/2023/09/14/1079458/this-driverless-car-company-is-using-chatbots-to-make-its-vehicles-smarter/), [Fortune](https://fortune.com/2023/09/15/wayve-microsoft-backed-self-driving-car-start-up-alex-kendall-trust-ai/))
