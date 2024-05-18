@@ -158,14 +158,14 @@ Wayve began in a residential house, just outside Cambridge University. We founde
 <figure class="half">
     <a href="/assets/images/hoffice.jpg"><img src="/assets/images/hoffice.jpg"></a>
     <a><iframe src="https://www.youtube.com/embed/eRwTbRtnT1I?si=0ss0gspK6C8cV4hR" frameborder="0" allowfullscreen></iframe></a>
-    <figcaption>Unveiling our first autonomous vehicle we built in our garage in Cambridge, UK. Learning to drive with reinforcement learning.</figcaption>
+    <figcaption>Unveiling our first autonomous vehicle we built in our garage in Cambridge, UK. <a href="https://youtu.be/eRwTbRtnT1I?si=pLGJhA8QcdH3bUH1">An early result, learning to drive with reinforcement learning.</a></figcaption>
 </figure>
 
 Today Wayve is the leading developer of Embodied AI technology for automated driving. We've raised $1.3b from top investors like SoftBank, Microsoft, NVIDIA, and Eclipse Ventures and are a team of over 300 people across London, Vancouver and Silicon Valley. We’ve been operating our fleet on public roads since 2018, including AV trials with major grocery delivery fleets like Asda and Ocado Group. Wayve’s innovative AI technology enables greater generalisation to the long-tail of edge cases, improved safety, while eliminating the need for high-definition maps and complex sensors, marking a significant leap in the scalability of autonomous mobility.
 
 <figure class="half">
-    <a><iframe src="https://www.youtube.com/embed/L_O6mQIQ3Eg?si=FkJdUl3t_oh9skgg" frameborder="0" allowfullscreen></iframe></a>
-    <a><iframe src="https://www.youtube.com/embed/NNqkx8sigRY?si=At37-z6hzIiZOJMA" frameborder="0" allowfullscreen></iframe></a>
+    <iframe src="https://www.youtube.com/embed/L_O6mQIQ3Eg?si=FkJdUl3t_oh9skgg" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/NNqkx8sigRY?si=At37-z6hzIiZOJMA" frameborder="0" allowfullscreen></iframe>
     <figcaption>A video of our AV2.0 technology driving autonomously through central London. A fun video showcasing life at Wayve.</figcaption>
 </figure>
 
