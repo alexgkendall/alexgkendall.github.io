@@ -125,7 +125,7 @@ gallery:
 
 ## I’m passionate about building Embodied AI, deep tech startups and generally anything adventurous.
 
-I co-founded and am CEO at [Wayve](https://wayve.ai/) – the leader in developing embodied AI for autonomous driving. I started working on this technology at Cambridge University where my PhD research showed how end-to-end deep learning could enable safe and real-time scene understanding. I founded Wayve in 2017 with the belief that end-to-end AI would unlock generalised autonomy at global scale. Wayve was first to deploy end-to-end AI on public roads and our AV2.0 approach enables safe, generalisable and trustworthy autonomy. We've raised $1.3b in funding and are a team of over 300 across London, Vancouver and Silicon Valley. Interested in joining our mission? We’re hiring [here](https://wayve.ai/careers/join-us/)!
+I co-founded and am CEO at [Wayve](https://wayve.ai/) – a startup developing Embodied AI for autonomous driving. I started working on this technology at Cambridge University where my PhD research showed how end-to-end deep learning could enable safe and real-time scene understanding. I founded Wayve in 2017 with the belief that end-to-end AI would unlock generalised autonomy at global scale. Wayve was first to deploy end-to-end AI on public roads and our AV2.0 approach enables safe, generalisable and trustworthy autonomy. We've raised $1.3b in funding and are a global team across London, Vancouver and Silicon Valley. Interested in joining our mission? We’re hiring [here](https://wayve.ai/careers/join-us/)!
 
 <figure>
 	<a href="/assets/images/team.jpg"><img src="/assets/images/team.jpg"></a>
@@ -151,7 +151,7 @@ I was fortunate enough to win a [Woolf Fisher Scholarship](http://www.woolffishe
     <figcaption>Trinity College, Cambridge, where I was a PhD student and Research Fellow. My research on multi-task scene understanding and uncertainty estimation, enabling AVs which can safely drive in dynamic scenes without HD-maps.</figcaption>
 </figure>
 
-I was elected as a Fellow of Trinity College, Cambridge. I loved spending time with startups like Skydio and Scape which got me excited about the potential of venture-backed growth. Ultimately I became convinced that end-to-end machine learning would become the future for robotics. This was a very contrarian idea at the time and laughed at by many… but led to the founding of Wayve.
+I was elected as a Fellow of Trinity College, Cambridge. I loved spending time with startups like Skydio and Scape which got me excited about the potential of venture-backed growth. Ultimately I became convinced that end-to-end machine learning would become the future for robotics. This was a very contrarian idea at the time and laughed at by many… but my conviction led to the founding of Wayve.
 
 Wayve began in a residential house, just outside Cambridge University. We founded the company in 2017 with the mission to ‘reimagine autonomous mobility with embodied intelligence'. We demonstrated world-firsts of end-to-end deep learning driving on public roads, with model-free and model-based reinforcement learning, imitation learning and sim2real transfer. We then raised our Series A funding and moved to London.
 
@@ -161,7 +161,7 @@ Wayve began in a residential house, just outside Cambridge University. We founde
     <figcaption>Unveiling our first autonomous vehicle we built in our garage in Cambridge, UK. <a href="https://youtu.be/eRwTbRtnT1I?si=pLGJhA8QcdH3bUH1">An early result, learning to drive with reinforcement learning.</a></figcaption>
 </figure>
 
-Today Wayve is the leading developer of Embodied AI technology for automated driving. We've raised $1.3b from top investors like SoftBank, Microsoft, NVIDIA, and Eclipse Ventures and are a team of over 300 people across London, Vancouver and Silicon Valley. We’ve been operating our fleet on public roads since 2018, including AV trials with major grocery delivery fleets like Asda and Ocado Group. Wayve’s innovative AI technology enables greater generalisation to the long-tail of edge cases, improved safety, while eliminating the need for high-definition maps and complex sensors, marking a significant leap in the scalability of autonomous mobility.
+Today Wayve is the leading developer of Embodied AI technology for automated driving. We've raised $1.3b from top investors like SoftBank, Microsoft, NVIDIA, Uber and Eclipse Ventures and are a global team across London, Vancouver and Silicon Valley. We’ve been operating our fleet on public roads since 2018 and are now working with the most innovative automakers and fleet owners to accelerate the path from assisted to automated driving. Wayve’s innovative AI technology enables greater generalisation to the long-tail of edge cases, improved safety, while eliminating the need for high-definition maps and complex sensors, marking a significant leap in the scalability of autonomous mobility.
 
 <figure class="half">
     <iframe src="https://www.youtube.com/embed/L_O6mQIQ3Eg?si=FkJdUl3t_oh9skgg" frameborder="0" allowfullscreen></iframe>
